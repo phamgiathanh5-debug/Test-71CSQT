@@ -5,4 +5,4 @@ this is the lastime'
 
  thay doi ngay 19.10
 
-print(thay doi o tren git)
+thay doi o tren git
